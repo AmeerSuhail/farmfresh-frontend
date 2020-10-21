@@ -1,0 +1,24 @@
+.user-container{
+    height: 100vh;
+    position: relative;
+
+}
+
+.addForm{
+    /* height: 50vh; */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* width: 50%; */
+    height: 60%;
+    margin: auto;
+
+}
+
+.addFormTable{
+    border: 3px solid #BDBDBD;
+    margin-top: 5px;
+    /* border-radius: .2em; */
+}
